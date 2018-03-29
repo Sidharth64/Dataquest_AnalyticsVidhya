@@ -18,6 +18,4 @@ PYTHON As usual, we will first download our datasets locally, and then we will l
 
 6)library(sklearn.Tree) #for Decision Tree.
 
-7)library(e1071)#for applying SVM.
-
-8)library(keras) #for building neural network model and training. 
+7)library(keras) #for building neural network model and training. 
